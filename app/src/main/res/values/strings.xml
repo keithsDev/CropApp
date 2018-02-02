@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CropApp</string>
+    <string name="action_select">action_select</string>
+</resources>
